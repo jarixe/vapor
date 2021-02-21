@@ -1,1 +1,42 @@
-e93750a3f3350fcd405cef667aa4adfb
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Arnhem, Netherlands",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "Owners Jari and Alex",
+            "server": "Partly run on renewable energy and relay nodes in relaible datacenters"
+        },
+    "telegram-admin-handle": {
+        "0": "@Jarixe_VAPOR",
+        "1": "@Alex_VAPOR"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "Relay 1 FR",
+                "type": "relay",
+                "key": "ef31d53e0225cdc65ba9b4e6dd68d9e6"
+            },
+            "1": {
+                "name": "Relay 2 DE",
+                "type": "relay",
+                "key": "5fe9b60c5ab05324cc8388ff9cd6bd3f"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "fc0bbb1f7e091ed9d24f554fafe531aa"
+            }
+        }
+    }
