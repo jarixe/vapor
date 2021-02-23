@@ -1,8 +1,8 @@
 {
-  "name": "VaporPool_EU",
+  "name": "VaporPool EU",
   "ticker": "VAPOR",
   "description": "European staking pool with low fee's and IT professionals",
-  "homepage": "http://vaporpool.eu",
-  "nonce": "1613911345",
+  "homepage": "https://vaporpool.eu",
+  "nonce": "1614091467",
   "extended": "https://raw.githubusercontent.com/jarixe/vapor/main/ext.json"
 }
