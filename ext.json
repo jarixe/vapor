@@ -17,8 +17,7 @@
             "server": "Partly run on renewable energy and relay nodes in reliable datacenters!"
         },
         "telegram-admin-handle": {
-            "0": "Jarixe_VAPOR",
-            "1": "Alex_VAPOR"
+            "0": "Jarixe_VAPOR"
         },
         "adapools_ext": {
             "prometheus": {
@@ -36,8 +35,8 @@
                     "name": "block producer home",
                     "type": "bp",
                     "key": "fc0bbb1f7e091ed9d24f554fafe531aa"
-				}
-			}
+		}
+	    }
         }
     }
 }
