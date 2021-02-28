@@ -5,8 +5,8 @@
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
         "location": "Arnhem, Netherlands",
         "social": {
-            "twitter_handle": "",
-            "telegram_handle": "",
+            "twitter_handle": "CryptoJari",
+            "telegram_handle": "Jarixe_VAPOR",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -18,8 +18,8 @@
             "server": "Partly run on renewable energy and relay nodes in reliable datacenters!"
         },
     "telegram-admin-handle": {
-        "0": "@Jarixe_VAPOR",
-        "1": "@Alex_VAPOR"
+        "0": "Jarixe_VAPOR",
+        "1": "Alex_VAPOR"
     },
     "adapools_ext": {
         "prometheus": {
