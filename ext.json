@@ -1,7 +1,7 @@
 {
     "info": {
         "url_png_icon_64x64": "https://github.com/jarixe/vapor/blob/56f54ec1a4e91bfd708fd738ac2f51e3bce9d602/logo-64x64.png",
-        "url_png_logo": "https://github.com/jarixe/vapor/blob/db3de041c5fc1aa660be8a8d86a5a8647bcca513/logo-1x1-small.png",
+        "url_png_logo": "https://raw.githubusercontent.com/jarixe/vapor/main/logo-1x1-small.png",
         "location": "Arnhem, Netherlands",
         "social": {
             "twitter_handle": "vaporpooleu",
