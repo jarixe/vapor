@@ -1,8 +1,8 @@
 {
   "name": "💨VaporPool💨",
   "ticker": "VAPOR",
-  "description": "💨Staking pool located in Netherlands with 0% fee and 250k pledge | Partly running on solar energy | Offering high performance, DDOS protection, 24/7 monitoring and a welcoming community💨",
+  "description": "💨Staking pool located in Netherlands with 0% fee and 150k pledge | Partly running on solar energy | Offering high performance, DDOS protection, 24/7 monitoring and a welcoming community💨",
   "homepage": "https://vaporpool.eu",
-  "nonce": "1616711484",
+  "nonce": "1621021940",
   "extended": "https://raw.githubusercontent.com/jarixe/vapor/main/ext.json"
 }
